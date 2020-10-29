@@ -1,5 +1,3 @@
-# my-first-repo
-# my-first-repo
 
 # Header H1
 Header H1 is used to display the Project heading. 
