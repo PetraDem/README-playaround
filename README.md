@@ -25,3 +25,16 @@ with open("sample.csv","r") as csvinput: # read input csv file
     for row in reader:
         print(row[0])
 ````
+* Star is used to create a bullet list item
+* Item 2
+
+- You can also use Dashes instead of stars
+- Parent Item
+ - Item 1
+ - Item 2
+ 
+`variable a = 20`
+ 
+ Column 1|Column 2
+--------------|--------------
+Row element| Row element
